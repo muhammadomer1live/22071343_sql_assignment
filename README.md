@@ -12,4 +12,3 @@ How you generated the data (do not download other people's data).
 The schema of your database.
 Your justification for any separate tables and ethical discussion.
 Example queries of your database including joins and selections, demonstrating different data types.
-As ever, you are reminded that this is an individual assignment, i.e. no collusion is allowed. Any submissions deemed to be the result of copying or group work will be seen as academic misconduct and a grade of 0 will be issued.
